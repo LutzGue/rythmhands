@@ -3,7 +3,7 @@ When the button is clicked, it selects two random images from the array and disp
 */
 
 // Array of image paths. Replace these with your own paths.
-var images = ['img/img0.png', 'img/img1.png', 'img/img2.png', 'img/img3.png', 'img/img4.png'];
+var images = ['img/note0.png', 'img/note1.png', 'img/note2.png', 'img/note3.png', 'img/note4.png', 'img/note5.png', 'img/note6.png'];
 
 document.getElementById('myButton').addEventListener('click', function() {
 
